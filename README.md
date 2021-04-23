@@ -1,9 +1,10 @@
 # ReturnReqs
-A notebook featuring return-to-campus requirements from multiple universities/colleges
-## Purpose
-Some information about instruction format, vaccine requirement and more
-## Content
-| School      | Decision Declared | Instruction Format | Vaccination |
-| ----------- | ----------- | ----------- | ----------- |
-| Rensselaer Polytechnic Institute      | Y       | In-person       | Required       |
-| Paragraph   | Text        | Text        | In-person       |
+一些学校2021年夏季/秋季的返校要求
+## 内容
+授课形式和新冠疫苗接种要求
+## 名单
+| 学校名称                          | 是否宣布 | 宣布日期    | 适用学期    | 授课形式   | 是否要求接种新冠疫苗  | 承认的新冠疫苗         |
+|----------------------------------|----------|------------|------------|-----------|----------------------|----------------------|
+| Rennselaer Polytechnic Institute | 是       | 04/20/2021 | Su21, Fa21 | In-person | 是                   | 任意           |
+|                                  |          |            |            |           |                      |                |
+|                                  |          |            |            |           |                      |                |
