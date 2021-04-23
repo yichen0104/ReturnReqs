@@ -5,6 +5,6 @@
 ## 名单
 | 学校名称                          | 是否宣布 | 宣布日期    | 适用学期    | 授课形式   | 是否要求接种新冠疫苗  | 承认的新冠疫苗         |
 |----------------------------------|----------|------------|------------|-----------|----------------------|----------------------|
-| Rennselaer Polytechnic Institute | 是       | 04/20/2021 | Su21, Fa21 | In-person | 是                   | 任意           |
-|                                  |          |            |            |           |                      |                |
-|                                  |          |            |            |           |                      |                |
+| Rennselaer Polytechnic Institute | 是       | 04/20/2021 | SU21, F21  | In-person | 是                   | 任意国家任意疫苗           |
+| Rutgers University               | 是       | 03/25/2021 | F21        | In-person | 是                   | Pfizer, Moderna, Johnson & Johnson        | 
+|                                  |          |            |            |           |                     |                |
